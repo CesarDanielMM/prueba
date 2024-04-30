@@ -84,7 +84,7 @@ Sede Jutiapa:
 ![S4](Imagenes/CapturaS4.JPG)
 
 Central:
-![S5](Imagenes/CapturaS5.JPEG)
+![S5](Imagenes/CapturaS5.jpeg)
 
 ### Detalle de los comandos utilizados:
 
